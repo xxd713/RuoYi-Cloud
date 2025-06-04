@@ -1,5 +1,5 @@
 # 基础镜像
-FROM nginx
+FROM nginx:latest
 # author
 MAINTAINER ruoyi
 
