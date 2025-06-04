@@ -1,5 +1,5 @@
 # 基础镜像
-FROM redis:latest
+FROM redis
 # author
 MAINTAINER ruoyi
 
